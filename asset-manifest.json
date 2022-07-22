@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a8db208.css",
-    "main.js": "/static/js/main.400f6f56.js",
-    "index.html": "/index.html",
-    "main.4a8db208.css.map": "/static/css/main.4a8db208.css.map",
-    "main.400f6f56.js.map": "/static/js/main.400f6f56.js.map"
+    "main.css": "/master-of-hof/static/css/main.4a8db208.css",
+    "main.js": "/master-of-hof/static/js/main.400f6f56.js",
+    "index.html": "/master-of-hof/index.html",
+    "main.4a8db208.css.map": "/master-of-hof/static/css/main.4a8db208.css.map",
+    "main.400f6f56.js.map": "/master-of-hof/static/js/main.400f6f56.js.map"
   },
   "entrypoints": [
     "static/css/main.4a8db208.css",
