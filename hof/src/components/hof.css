@@ -1,0 +1,18 @@
+.container{
+    margin: auto;
+    padding: 0;
+    width: fit-content;
+}
+
+.display-box{
+    margin: auto;
+    border: 1px solid black;
+    text-align: left;
+    color: blue;
+    padding: 0 30px;
+    width: fit-content;
+}
+
+.display-box span{
+    padding: 0 10px;
+}
